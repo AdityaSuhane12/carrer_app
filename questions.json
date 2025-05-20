@@ -1,0 +1,56 @@
+[
+  {
+    "question": "Which activity do you enjoy the most?",
+    "options": {
+      "Building apps or solving tech problems": {"Tech": 2},
+      "Designing or drawing": {"Creative": 2},
+      "Leading group tasks": {"Management": 2},
+      "Managing money or sales": {"Commerce": 2}
+    }
+  },
+  {
+    "question": "What kind of challenges excite you?",
+    "options": {
+      "Logical and coding problems": {"Tech": 2},
+      "Visual and artistic projects": {"Creative": 2},
+      "Organizing teams and timelines": {"Management": 2},
+      "Planning budgets and profits": {"Commerce": 2}
+    }
+  },
+  {
+    "question": "Which skill do you value most?",
+    "options": {
+      "Problem-solving with code": {"Tech": 2},
+      "Creative thinking": {"Creative": 2},
+      "Leadership and planning": {"Management": 2},
+      "Financial decision-making": {"Commerce": 2}
+    }
+  },
+  {
+    "question": "What type of tasks make you lose track of time?",
+    "options": {
+      "Debugging software or exploring new tech": {"Tech": 2},
+      "Sketching, painting, or crafting content": {"Creative": 2},
+      "Strategizing and guiding teams": {"Management": 2},
+      "Analyzing market trends or doing accounts": {"Commerce": 2}
+    }
+  },
+  {
+    "question": "Which subject did you enjoy the most in school?",
+    "options": {
+      "Computer Science or Math": {"Tech": 2},
+      "Art, Literature, or Music": {"Creative": 2},
+      "Social Studies or Business": {"Management": 2},
+      "Economics or Accounting": {"Commerce": 2}
+    }
+  },
+  {
+    "question": "What would you prefer to do in a team project?",
+    "options": {
+      "Handle the technical implementation": {"Tech": 2},
+      "Design the look and feel of the project": {"Creative": 2},
+      "Coordinate tasks and deadlines": {"Management": 2},
+      "Manage the budget and presentations": {"Commerce": 2}
+    }
+  }
+]
